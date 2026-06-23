@@ -1,0 +1,11 @@
+C:\Users\Honor\source\repos2\КрасныйЯкорь\КрасныйЯкорь\bin\Debug\КрасныйЯкорь.exe.config
+C:\Users\Honor\source\repos2\КрасныйЯкорь\КрасныйЯкорь\bin\Debug\КрасныйЯкорь.exe
+C:\Users\Honor\source\repos2\КрасныйЯкорь\КрасныйЯкорь\bin\Debug\КрасныйЯкорь.pdb
+C:\Users\Honor\source\repos2\КрасныйЯкорь\КрасныйЯкорь\obj\Debug\КрасныйЯкорь.csproj.AssemblyReference.cache
+C:\Users\Honor\source\repos2\КрасныйЯкорь\КрасныйЯкорь\obj\Debug\КрасныйЯкорь.Form1.resources
+C:\Users\Honor\source\repos2\КрасныйЯкорь\КрасныйЯкорь\obj\Debug\КрасныйЯкорь.Properties.Resources.resources
+C:\Users\Honor\source\repos2\КрасныйЯкорь\КрасныйЯкорь\obj\Debug\КрасныйЯкорь.csproj.GenerateResource.cache
+C:\Users\Honor\source\repos2\КрасныйЯкорь\КрасныйЯкорь\obj\Debug\КрасныйЯкорь.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos2\КрасныйЯкорь\КрасныйЯкорь\obj\Debug\КрасныйЯкорь.exe
+C:\Users\Honor\source\repos2\КрасныйЯкорь\КрасныйЯкорь\obj\Debug\КрасныйЯкорь.pdb
+C:\Users\Honor\source\repos2\КрасныйЯкорь\КрасныйЯкорь\obj\Debug\КрасныйЯкорь.LoginForm.resources
